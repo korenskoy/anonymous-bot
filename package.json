@@ -1,0 +1,32 @@
+{
+  "name": "anonymous-bot",
+  "version": "0.0.1",
+  "description": "Telegram Anonymous Bot",
+  "main": "index.js",
+  "scripts": {
+    "start": "node index.js",
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/korenskoy/anonymous-bot.git"
+  },
+  "keywords": [
+    "telegram",
+    "telegram-bot",
+    "anon",
+    "anonymous",
+    "anonimous",
+    "feedback"
+  ],
+  "author": "",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/korenskoy/anonymous-bot/issues"
+  },
+  "homepage": "https://github.com/korenskoy/anonymous-bot#readme",
+  "dependencies": {
+    "botgram": "^2.2.0",
+    "dotenv": "^16.0.3"
+  }
+}
